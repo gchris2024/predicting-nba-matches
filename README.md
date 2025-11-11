@@ -3,6 +3,8 @@
 
 Stage 1: Predictors include Venue, Opponent, Hour, and Day
 
+Stage 2: Add predictors FGA, FGM, 3PM, 3P%, FTA, FTM, FT%
+
 This project was inspired by a video by [Dataquest](https://www.youtube.com/@Dataquestio), but adapted to the NBA instead of the EPL.
 
 ### Data Source / Legal
